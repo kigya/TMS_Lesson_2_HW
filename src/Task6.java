@@ -14,3 +14,4 @@ public class Task6 {
         System.out.println(scanner.next());
     }
 }
+
